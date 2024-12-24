@@ -8,6 +8,6 @@ package tm.pkg12.gitaritmatika;
  *
  * @author riyann
  */
-public class TM12GitAritmatika {
+public class Bilangan {
     
 }
