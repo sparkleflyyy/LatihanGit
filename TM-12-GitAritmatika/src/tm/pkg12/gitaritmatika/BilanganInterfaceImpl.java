@@ -27,7 +27,7 @@ public class BilanganInterfaceImpl implements BilanganInterface{
 
     @Override
     public double div(Bilangan bilangan) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return bilangan.getBilangan1() / bilangan.getBilangan2();
     }
    
 }
