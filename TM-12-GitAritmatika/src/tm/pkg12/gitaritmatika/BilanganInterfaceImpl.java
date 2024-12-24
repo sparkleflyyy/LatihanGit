@@ -13,7 +13,7 @@ public class BilanganInterfaceImpl implements BilanganInterface{
 
     @Override
     public double sub(Bilangan bilangan) {
-        return bilangan.getBilangan1() / bilangan.getBilangan2();
+        return bilangan.getBilangan1() - bilangan.getBilangan2();
     }
 
     @Override
